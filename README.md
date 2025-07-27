@@ -1,4 +1,4 @@
-My Cpp Notes that i created for my reference
+C++ Notes that i created for my reference
 
 # Contents
 
